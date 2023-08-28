@@ -1,2 +1,2 @@
-print("hello Leonardo Ramos da Siveira OK!")
+print("hello Leonardo OK!")
 
